@@ -1,9 +1,9 @@
 {
-    "produtos": [
-      {
-        "id": 1,
-        "nome": "Hambúrguer",
-        "valor": 8.5
-      }
-    ]
-}   
+  "produtos": [
+    {
+      "nome": "tv",
+      "valor": "10",
+      "id": 1
+    }
+  ]
+}
